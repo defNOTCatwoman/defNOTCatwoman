@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @defNOTCatwoman
 - 👀 I’m interested in reading
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on beginner-friendly Java projects.
+- 💞️ I’m looking to collaborate on beginner friendly open-source Java projects.
 - 📫 How to reach me @ here <3
 
 <!---
